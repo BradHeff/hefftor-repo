@@ -12,6 +12,8 @@ Packages
 * hefftor-xfce-local-git
 * hefftor-xfce-gimp-git
 * hefftor-xfce-dconf-git
+* hefftor-herbstluftwm-config-git
+* hefftor-herbstluftwm-local-git
 * hefftor-mac-theme-git
 * betterlockscreen-git
 * insync
