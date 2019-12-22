@@ -7,15 +7,15 @@ conky, gimp local and dconf have been moved into there indavidual packages.
 Packages
 ------
 
-hefftor-xfce-config-git
-hefftor-xfce-conky-git
-hefftor-xfce-local-git
-hefftor-xfce-gimp-git
-hefftor-xfce-dconf-git
-hefftor-mac-theme-git
-betterlockscreen-git
-insync
-zoom
+* hefftor-xfce-config-git
+* hefftor-xfce-conky-git
+* hefftor-xfce-local-git
+* hefftor-xfce-gimp-git
+* hefftor-xfce-dconf-git
+* hefftor-mac-theme-git
+* betterlockscreen-git
+* insync
+* zoom
 
 
 Instructions
