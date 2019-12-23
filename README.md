@@ -7,6 +7,7 @@ conky, gimp local and dconf have been moved into there indavidual packages.
 Packages
 ------
 
+* hefftor-xfce-git
 * hefftor-xfce-config-git
 * hefftor-xfce-conky-git
 * hefftor-xfce-local-git
@@ -15,6 +16,7 @@ Packages
 * hefftor-herbstluftwm-config-git
 * hefftor-herbstluftwm-local-git
 * hefftor-mac-theme-git
+* hefftor-tela-blue-icons-git
 * betterlockscreen-git
 * insync
 * zoom
