@@ -10,6 +10,7 @@ conky has been moved into its own package.
 Packages
 ------
 
+* hefftor-root-git
 * hefftor-xfce-git
 * hefftor-xfce-config-git
 * hefftor-xfce-local-git
