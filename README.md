@@ -11,6 +11,7 @@ gimp, conky and root has been moved into there own packages.
 Packages
 ------
 
+* hefftor-wallpapers-git
 * hefftor-root-git
 * hefftor-xfce-git
 * hefftor-xfce-config-git
@@ -22,6 +23,7 @@ Packages
 * hefftor-gimp-git
 * hefftor-mac-theme-git
 * hefftor-tela-blue-icons-git
+* hefftor-lightdm-gtk-greeter
 * betterlockscreen-git
 * insync
 * zoom
