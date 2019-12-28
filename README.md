@@ -18,6 +18,7 @@ Packages
 * hefftor-xfce-config-git
 * hefftor-xfce-local-git
 * hefftor-xfce-dconf-git
+* hefftor-xfce4-panel-profiles-git
 * hefftor-herbstluftwm-config-git
 * hefftor-herbstluftwm-local-git
 * hefftor-conky-git
