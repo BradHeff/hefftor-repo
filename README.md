@@ -14,6 +14,7 @@ Packages
 * hefftor-wallpapers-git
 * hefftor-root-git
 * hefftor-variety-git
+* hefftor-plank-git
 * hefftor-xfce-git
 * hefftor-xfce-config-git
 * hefftor-xfce-local-git
