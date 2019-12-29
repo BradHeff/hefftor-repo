@@ -26,6 +26,8 @@ Packages
 * hefftor-mac-theme-git
 * hefftor-tela-blue-icons-git
 * hefftor-lightdm-gtk-greeter
+* hefftor-calamares-config-git
+* hefftor-system-installation-git
 * betterlockscreen-git
 * insync
 * zoom
