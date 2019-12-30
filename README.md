@@ -29,6 +29,7 @@ Packages
 * hefftor-lightdm-gtk-greeter
 * hefftor-calamares-config-git
 * hefftor-system-installation-git
+* hefftor-grub-theme-vimix-git
 * betterlockscreen-git
 * insync
 * zoom
