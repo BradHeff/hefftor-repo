@@ -27,6 +27,10 @@ Packages
 * hefftor-herbstluftwm-dconf-git
 * hefftor-conky-herbstluft-git
 
+* hefftor-bspwm-git
+* hefftor-bspwm-config-git
+* hefftor-bspwm-dconf-git
+
 * hefftor-plasma-git
 * hefftor-plasma-config-git
 * hefftor-plasma-dconf-git
