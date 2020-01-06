@@ -46,6 +46,7 @@ Packages
 * hefftor-betterlockscreen-cache-git
 
 * hefftor-calamares-config-git
+* hefftor-calamares-config-bspwm-git
 * hefftor-calamares-config-plasma-git
 * hefftor-calamares-config-herbstluftwm-git
 * hefftor-system-installation-git
