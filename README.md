@@ -15,7 +15,7 @@ Packages
 * hefftor-root-git
 * hefftor-variety-git
 * hefftor-plank-git
-
+---
 
 * hefftor-xfce-git
 * hefftor-xfce-config-git
