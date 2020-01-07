@@ -15,26 +15,26 @@ Packages
 * hefftor-root-git
 * hefftor-variety-git
 * hefftor-plank-git
----
+------
 
 * hefftor-xfce-git
 * hefftor-xfce-config-git
 * hefftor-xfce-local-git
 * hefftor-xfce-dconf-git
 * hefftor-xfce4-panel-profiles-git
-
+------
 
 * hefftor-herbstluftwm-config-git
 * hefftor-herbstluftwm-local-git
 * hefftor-herbstluftwm-dconf-git
 * hefftor-conky-herbstluft-git
-
+------
 
 * hefftor-bspwm-git
 * hefftor-bspwm-config-git
 * hefftor-bspwm-dconf-git
 * hefftor-bspwm-local-git
-
+------
 
 * hefftor-plasma-git
 * hefftor-plasma-config-git
@@ -42,7 +42,7 @@ Packages
 * hefftor-plasma-local-git
 * hefftor-plasma-plank-git
 * hefftor-flat-remix-theme-git
-
+------
 
 * hefftor-conky-git
 * hefftor-gimp-git
@@ -50,7 +50,7 @@ Packages
 * hefftor-tela-blue-icons-git
 * hefftor-lightdm-gtk-greeter
 * hefftor-betterlockscreen-cache-git
-
+------
 
 * hefftor-calamares-config-git
 * hefftor-calamares-config-bspwm-git
@@ -58,12 +58,12 @@ Packages
 * hefftor-calamares-config-herbstluftwm-git
 * hefftor-system-installation-git
 * hefftor-grub-theme-vimix-git
-
+------
 
 * betterlockscreen-git
 * insync
 * zoom
-
+------
 
 
 Instructions
