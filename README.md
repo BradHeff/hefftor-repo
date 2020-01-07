@@ -61,8 +61,6 @@ Packages
 ------
 
 * betterlockscreen-git
-* insync
-* zoom
 ------
 
 
