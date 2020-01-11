@@ -6,6 +6,7 @@ local and dconf have been moved into there indavidual packages for xfce.
 
 gimp, conky and root has been moved into there own packages.
 
+moved polybar out of ```hefftor-herbstluftwm-config-git``` and ```hefftor-bspwm-config-git``` into its own package ```hefftor-polybar-git```
 
 
 Packages
@@ -15,7 +16,9 @@ Packages
 * hefftor-root-git
 * hefftor-variety-git
 * hefftor-plank-git
+* hefftor-polybar-git
 * hefftor-mez-gimp-config
+* hefftor-mez-krita-config
 ------
 
 * hefftor-xfce-git
