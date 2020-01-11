@@ -51,6 +51,8 @@ Packages
 * hefftor-conky-git
 * hefftor-gimp-git
 * hefftor-mac-theme-git
+* hefftor-stylish-theme-git
+* hefftor-bibata-cursor-git
 * hefftor-tela-blue-icons-git
 * hefftor-lightdm-gtk-greeter
 * hefftor-betterlockscreen-cache-git
