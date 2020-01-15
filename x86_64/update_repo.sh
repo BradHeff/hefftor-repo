@@ -14,3 +14,7 @@ repo-add hefftor-repo.db.tar.gz *.pkg.tar.zst
 echo "####################################"
 echo "Repo Updated!!"
 echo "####################################"
+
+cd ../
+
+./git.sh
