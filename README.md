@@ -19,6 +19,7 @@ Packages
 * hefftor-polybar-git
 * hefftor-mez-gimp-config
 * hefftor-mez-krita-config
+* thermald
 ------
 
 * hefftor-xfce-git
@@ -51,11 +52,13 @@ Packages
 * hefftor-conky-git
 * hefftor-gimp-git
 * hefftor-mac-theme-git
+* hefftor-juno-theme-git
 * hefftor-stylish-theme-git
 * hefftor-bibata-cursor-git
 * hefftor-tela-blue-icons-git
 * hefftor-lightdm-gtk-greeter
 * hefftor-betterlockscreen-cache-git
+* hefftor-jetbrainsmono-font-git
 ------
 
 * hefftor-calamares-config-git
