@@ -19,7 +19,7 @@ Packages
 * hefftor-polybar-git
 * hefftor-mez-gimp-config
 * hefftor-mez-krita-config
-* thermald
+* hefftor-skelapp-git
 ------
 
 * hefftor-xfce-git
@@ -69,6 +69,7 @@ Packages
 * hefftor-grub-theme-vimix-git
 ------
 
+* thermald
 * betterlockscreen-git
 ------
 
