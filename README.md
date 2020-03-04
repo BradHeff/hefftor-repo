@@ -61,6 +61,18 @@ Packages
 * hefftor-jetbrainsmono-font-git
 ------
 
+* hefftor-conky-new-git
+* hefftor-conky-twm-new-git
+* hefftor-mpd-config-git
+* hefftor-glava-config-git
+* hefftor-fonts-git
+------
+
+* hefftor-polybar-switcher-git
+* hefftor-skelapp-git
+* hefftor-betterlockscreen-gui-git
+------
+
 * hefftor-calamares-config-git
 * hefftor-calamares-config-bspwm-git
 * hefftor-calamares-config-plasma-git
