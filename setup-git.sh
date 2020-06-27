@@ -2,8 +2,8 @@
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
-# Author 	: 	Erik Dubois
-# Website 	: 	http://www.erikdubois.be
+# Author 	: 	Red Rayner
+# Website 	: 	http://www.lionos.org
 ##################################################################################################################
 ##################################################################################################################
 #
@@ -61,8 +61,8 @@ fi
 #https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
 git init
-git config --global user.name "Brad Heffernan"
-git config --global user.email "ph3onix83@gmail.com"
+git config --global user.name "Red Rayner"
+git config --global user.email "heelrayner@lionos.org"
 sudo git config --system core.editor nano
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=25000'
